@@ -1,3 +1,6 @@
 [submodule "ome"]
 	path = ome
 	url = https://github.com/excelmaster/tempmoodle.git
+[submodule "moodle"]
+	path = moodle
+	url = https://github.com/moodle/moodle.git
